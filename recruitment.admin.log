@@ -1,0 +1,16 @@
+2022-09-13 16:58:05,275 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
+2022-09-13 16:59:01,863 django_python3_ldap.ldap 224 INFO     LDAP connect succeeded
+2022-09-13 16:59:01,863 django_python3_ldap.ldap 224 INFO     LDAP connect succeeded
+2022-09-13 16:59:01,874 django_python3_ldap.ldap 88 INFO     LDAP user lookup succeeded
+2022-09-13 16:59:01,874 django_python3_ldap.ldap 88 INFO     LDAP user lookup succeeded
+2022-09-13 17:04:06,320 django.utils.autoreload 266 INFO     D:\DjangoV2\gd\interview\admin.py changed, reloading.
+2022-09-13 17:04:07,261 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
+2022-09-13 17:04:40,830 django.utils.autoreload 266 INFO     D:\DjangoV2\gd\interview\admin.py changed, reloading.
+2022-09-13 17:04:41,768 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
+2022-09-13 17:05:14,842 django.utils.autoreload 266 INFO     D:\DjangoV2\gd\interview\admin.py changed, reloading.
+2022-09-13 17:05:15,731 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
+2022-09-13 17:05:51,240 django.utils.autoreload 266 INFO     D:\DjangoV2\gd\interview\admin.py changed, reloading.
+2022-09-13 17:05:52,147 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
+2022-09-13 17:08:01,187 django.utils.autoreload 266 INFO     D:\DjangoV2\gd\interview\admin.py changed, reloading.
+2022-09-13 17:08:02,182 django.utils.autoreload 677 INFO     Watching for file changes with StatReloader
+2022-09-13 17:11:03,422 interview.admin 38 INFO     admin exported 2 candidate rexords
